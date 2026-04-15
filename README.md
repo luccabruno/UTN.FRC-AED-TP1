@@ -33,6 +33,10 @@ Codigo: [Código ICD10 cargado]
 Capitulo: [Nombre del capítulo de la OMS correspondiente al código]
 Monto a pagar: [Cálculo matemático final]
 
+
+
+
+
 ### Notas de Desarrollo
 - Mapeo de Capítulos: Una parte fundamental de la lógica interna del script es la evaluación de los prefijos del código ICD10 para determinar y devolver el nombre en texto claro de uno de los 22 capítulos del catálogo.
 - Actualización en Laboratorio: El script actual representa el Enunciado Base. Durante la semana del 20 al 24 de abril, se realizará un commit adicional resolviendo un requerimiento extra que será dictado presencialmente en clases.
